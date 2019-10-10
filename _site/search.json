@@ -1,82 +1,10 @@
 [
 
-  
-    
-    
-    {
-      "title": "Welcome",
-      "url": "//docs/home/"
-
-    },
-  
-    
-    
-    {
-      "title": "Themes",
-      "url": "//docs/themes/"
-
-    },
-  
-    
-    
-    {
-      "title": "Customization",
-      "url": "//docs/customization/"
-
-    },
-  
-
-  
-    
-    
-    {
-      "title": "Markdown Cheatsheet",
-      "url": "//docs/cheatsheet/"
-
-    },
-  
-    
-    
-    {
-      "title": "Font Awesome Icon List",
-      "url": "//docs/font-awesome/"
-
-    },
-  
-    
-    
-    {
-      "title": "Bootstrap Features",
-      "url": "//docs/bootstrap/"
-
-    },
-  
-
-  
-    
-    
-    {
-      "title": "My First Page",
-      "url": "//docs/my-page/"
-
-    },
-  
-
 
   
   {
-  "title": "My First Page!",
-  "url": "//blog/2019/10/08/my-first-page/"
-  },
-  
-  {
-  "title": "Jekyll Doc Theme is published!",
-  "url": "//blog/2017/05/03/jekyll-doc-theme/"
-  },
-  
-  {
-  "title": "Welcome to Jekyll!",
-  "url": "//blog/2017/02/01/welcome-to-jekyll/"
+  "title": "Interspeech 2019 Voice Conversion Paper Review",
+  "url": "/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/"
   }
   
 ]
