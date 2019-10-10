@@ -6,6 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+                  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+                          });
+    </script>
+    <script type="text/javascript" async 
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
     <link rel="stylesheet" href="/home/softrime/Work/Blog/softrime.github.io/css/main.css">
     <link rel="stylesheet" href="/home/softrime/Work/Blog/softrime.github.io/css/font-awesome.min.css">
 
@@ -16,19 +25,19 @@
 <meta property="og:title" content="Interspeech 2019 Voice Conversion Paper Review" />
 <meta name="author" content="softrime" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review papers in session ’ Neural Techniques for Voice Conversion and Waveform Generation’. (Still work in progress)" />
-<meta property="og:description" content="For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review papers in session ’ Neural Techniques for Voice Conversion and Waveform Generation’. (Still work in progress)" />
+<meta name="description" content="For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review VC-related papers in session ’ Neural Techniques for Voice Conversion and Waveform Generation’. (Still work in progress)" />
+<meta property="og:description" content="For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review VC-related papers in session ’ Neural Techniques for Voice Conversion and Waveform Generation’. (Still work in progress)" />
 <link rel="canonical" href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/" />
 <meta property="og:url" content="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2019-10-10T04:11:09+02:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/","headline":"Interspeech 2019 Voice Conversion Paper Review","dateModified":"2019-10-10T04:11:09+02:00","datePublished":"2019-10-10T04:11:09+02:00","author":{"@type":"Person","name":"softrime"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/"},"description":"For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review papers in session ’ Neural Techniques for Voice Conversion and Waveform Generation’. (Still work in progress)","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","url":"http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/","headline":"Interspeech 2019 Voice Conversion Paper Review","dateModified":"2019-10-10T04:11:09+02:00","datePublished":"2019-10-10T04:11:09+02:00","author":{"@type":"Person","name":"softrime"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/"},"description":"For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review VC-related papers in session ’ Neural Techniques for Voice Conversion and Waveform Generation’. (Still work in progress)","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
     <link rel="canonical" href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/">
-    <link rel="alternate" type="application/rss+xml" title="" href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title=" " href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/feed.xml" />
 </head>
 
 
@@ -44,7 +53,7 @@
         <span class="icon-bar"></span>
       </button>
             <a class="navbar-brand" href="/home/softrime/Work/Blog/softrime.github.io/">
-                <span><img src="/home/softrime/Work/Blog/softrime.github.io/img/logonav.png" alt="Logo"></span> 
+                <span><img src="/home/softrime/Work/Blog/softrime.github.io/img/logonav.png" alt="Logo"></span>  
             </a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
@@ -58,9 +67,6 @@
                         <i class="fa fa-search form-control-feedback"></i>
                     </div>
                 </form>
-                <ul class="nav navbar-nav">
-                    <li><a href="https://github.com/aksakalli/jekyll-doc-theme"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-                </ul>
             </div>
         </div>
     </div>
@@ -88,9 +94,19 @@
             <h1>Interspeech 2019 Voice Conversion Paper Review</h1>
             <p>Oct 10, 2019 • softrime</p>
             <div  id="markdown-content-container"><blockquote>
-  <p>For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review papers in session <strong>’	
+  <p>For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review VC-related papers in session <strong>’
 Neural Techniques for Voice Conversion and Waveform Generation’</strong>. (Still work in progress)</p>
 </blockquote>
+
+<!--more-->
+
+<ul class="table-of-content" id="markdown-toc">
+  <li><a href="#non-parallel-voice-conversion-using-weighted-generative-adversarial-networks" id="markdown-toc-non-parallel-voice-conversion-using-weighted-generative-adversarial-networks">Non-Parallel Voice Conversion Using Weighted Generative Adversarial Networks</a></li>
+</ul>
+
+<h4 id="non-parallel-voice-conversion-using-weighted-generative-adversarial-networks">Non-Parallel Voice Conversion Using Weighted Generative Adversarial Networks</h4>
+
+<p>This paper modifies loss function in StarGAN. In detail, authors add a weight factor on the adversarial loss when update Generators, which means $w_iD(G(x_i, c))$ . The weight can be considered as the fake confidence for a sample. It reduces the loss of samples which is considered as fake with a high confidence by Discriminator.</p>
 </div>
             <hr>
             <ul class="pager">
@@ -108,8 +124,8 @@ Neural Techniques for Voice Conversion and Waveform Generation’</strong>. (Sti
     <div class="container">
 
         <p class="text-center">
-             2019 |
-            Powered by <a href="https://github.com/aksakalli/jekyll-doc-theme">Jekyll Doc Theme</a>
+            SOFTRIME 2019 |
+            Thanks to <a href="https://github.com/aksakalli/jekyll-doc-theme">Jekyll Doc Theme</a>
         </p>
         <!-- <p class="text-muted">Place sticky footer content here.</p> -->
     </div>
