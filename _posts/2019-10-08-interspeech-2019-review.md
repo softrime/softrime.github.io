@@ -15,4 +15,17 @@ Neural Techniques for Voice Conversion and Waveform Generation'**. (Still work i
 
 #### Non-Parallel Voice Conversion Using Weighted Generative Adversarial Networks 
 
-This paper modifies loss function in StarGAN. In detail, authors add a weight factor on the adversarial loss when update Generators, which means $w_iD(G(x_i, c))$ . The weight can be considered as the fake confidence for a sample. It reduces the loss of samples which is considered as fake with a high confidence by Discriminator. 
+This paper modifies loss function in StarGAN. In detail, authors add a weight factor on the adversarial loss when update Generators, which means $$ w_iD(G(x_i, c)) $$ . The weight can be considered as the fake confidence for a sample. It reduces the loss of samples which is considered as fake with a high confidence by Discriminator. 
+
+$$
+em_2=2
+$$
+
+\begin{equation} f(x)=3x+7,\sigma \end{equation}
+
+
+asd
+
+\\( w_i = 2^2 \\)
+
+
