@@ -1,12 +1,12 @@
 # Site settings
-title:  
+title: ' ' 
 email: softrime.wu@gmail.com
 description: >
   providing documentation and blog post pages.
   Stay hungry, stay recording.
 lang: en-US
 
-#baseurl: "/home/softrime/Work/Blog/softrime.github.io" # the subpath of your site, e.g. /blog/
+# baseurl: "/home/softrime/Work/Blog/softrime.github.io" # the subpath of your site, e.g. /blog/
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
 git_address: https://github.com/aksakalli/jekyll-doc-theme
