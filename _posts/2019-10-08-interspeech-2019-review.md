@@ -4,7 +4,7 @@ title:  "Interspeech 2019 Voice Conversion Paper Review"
 date:   2019-10-10 02:11:09
 author: softrime 
 ---
-> For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). For my personal interests, I would mostly review VC-related papers in session **'
+> For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). In this post, I would mostly review VC-related papers in session **'
 Neural Techniques for Voice Conversion and Waveform Generation'**, which is mainly about speaker information transformation. It is interesting that **StarGAN** becomes very popular this year. All the three papers about StarGAN tries to improve performace by modifying its architecture or training strategy. Also is **One-shot Learning VC** (three papers) which convert source speech to arbitrary target speaker with very limited target speaker corpus. One of them uses VAE while other two methods use PPG. There are also three VC works named on Tomoki Toda which all based on VAE framework. (W.I.P)
 
 <!--more-->
@@ -12,6 +12,8 @@ Neural Techniques for Voice Conversion and Waveform Generation'**, which is main
 {: class="table-of-content"}
 * TOC
 {:toc}
+
+----
 
 ### Summary 
 

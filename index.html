@@ -4,7 +4,9 @@ layout: default
 
 <div class="header-container jumbotron">
     <div class="container">
-        <h1>Stay Hungry, Stay Recording</h1>
+        <h1>Welcome ;)</h1>
+	<p>Here are the latest posts from me</p>
+	<p>All about Speech, Deep Learning and Life.</p>
     </div>
 </div>
 
@@ -15,7 +17,7 @@ layout: default
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" style="color:#DC143C" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 
           <h6 class="post-meta">
             {{ post.date | date: date_format }}
