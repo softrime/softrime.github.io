@@ -8,3 +8,24 @@ layout: default
     </div>
 </div>
 
+<div class="container">
+  <h1 style="font-size:40px">Posts</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+
+          <h6 class="post-meta">
+            {{ post.date | date: date_format }}
+          </h6>
+
+          {% if post.excerpt %}
+            {{ post.excerpt }}
+          {% endif %}
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+ </div>
