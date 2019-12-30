@@ -1,5 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2019-10-23T11:02:51+02:00</updated><id>http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/feed.xml</id><title type="html"> </title><subtitle>providing documentation and blog post pages. Stay hungry, stay recording.
-</subtitle><entry><title type="html">Interspeech 2019 Voice Conversion Paper Review</title><link href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/" rel="alternate" type="text/html" title="Interspeech 2019 Voice Conversion Paper Review" /><published>2019-10-10T04:11:09+02:00</published><updated>2019-10-10T04:11:09+02:00</updated><id>http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review</id><content type="html" xml:base="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2019-12-24T07:12:57+01:00</updated><id>http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/feed.xml</id><title type="html"> </title><subtitle>providing documentation and blog post pages. Stay hungry, stay recording.
+</subtitle><entry><title type="html">Popular Music Genres Introduction</title><link href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/12/16/music-genres/" rel="alternate" type="text/html" title="Popular Music Genres Introduction" /><published>2019-12-16T15:43:09+01:00</published><updated>2019-12-16T15:43:09+01:00</updated><id>http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/12/16/music-genres</id><content type="html" xml:base="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/12/16/music-genres/">&lt;blockquote&gt;
+  &lt;p&gt;There are so many different types of music like Jazz, R&amp;amp;B, Blues etc. If you listen each one of these music several times, you may know what’s it like, but also, you don’t know why. 
+So the motivation of this article is to describe popular music genres in a academic way. I’ll try to introduce each common music genre specifically. Some typical examples would be better. This is an interesting work.
+Keep doing. 
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul class=&quot;table-of-content&quot; id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#1900s&quot; id=&quot;markdown-toc-1900s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1900s&lt;/span&gt;&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#ragtime&quot; id=&quot;markdown-toc-ragtime&quot;&gt;&lt;strong&gt;Ragtime&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gospel&quot; id=&quot;markdown-toc-gospel&quot;&gt;&lt;strong&gt;Gospel&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#1910s&quot; id=&quot;markdown-toc-1910s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1910s&lt;/span&gt;&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#tin-pan-alley&quot; id=&quot;markdown-toc-tin-pan-alley&quot;&gt;&lt;strong&gt;Tin Pan Alley&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#dixieland&quot; id=&quot;markdown-toc-dixieland&quot;&gt;&lt;strong&gt;Dixieland&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#1920s&quot; id=&quot;markdown-toc-1920s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1920s&lt;/span&gt;&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#country-blues&quot; id=&quot;markdown-toc-country-blues&quot;&gt;&lt;strong&gt;Country Blues&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hillbilly&quot; id=&quot;markdown-toc-hillbilly&quot;&gt;&lt;strong&gt;Hillbilly&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#boogie-woogie&quot; id=&quot;markdown-toc-boogie-woogie&quot;&gt;&lt;strong&gt;Boogie Woogie&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gipsy-jazz&quot; id=&quot;markdown-toc-gipsy-jazz&quot;&gt;&lt;strong&gt;Gipsy Jazz&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#1930s&quot; id=&quot;markdown-toc-1930s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1930s&lt;/span&gt;&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#swing&quot; id=&quot;markdown-toc-swing&quot;&gt;&lt;strong&gt;Swing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#west-countryswing&quot; id=&quot;markdown-toc-west-countryswing&quot;&gt;&lt;strong&gt;West Country/Swing&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;1900s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1900s&lt;/span&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;ragtime&quot;&gt;&lt;strong&gt;Ragtime&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Piano&lt;/li&gt;
+  &lt;li&gt;Ragtime was very popular towards the end of the 19th century and into the first two decades of 20th century.
+It’s a genre of musical composition for the piano, which is considered as a synthesis of &lt;strong&gt;European Classical Music&lt;/strong&gt; and &lt;strong&gt;African Syncopation(切分音)&lt;/strong&gt;.
+Each hand doing something different. Left hand plays a rhythm section, which is a steady march-like succession(交替) of &lt;strong&gt;Bass Notes&lt;/strong&gt; and &lt;strong&gt;Chords&lt;/strong&gt;.
+The low notes mimic a tuba(大号) or other bass instruments. The chords communicates the harmony of the song. They also mimic a kick and snare drum pattern.
+Much of the difficulty comes from the fact that a stride left hand jumps around a lot. Moving nonstop from low register bass notes to middle register chords.
+The right hand is responsible for most the syncopation, as it plays syncopation melodies in a ‘ragged’ fasion(hence the name ‘ragtime’). To sum up, 
+ragtime is composed from bass notes and chords of the left hands, and syncopation of the right hand. After accelerating the speed, here comes the ragtime~&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gospel&quot;&gt;&lt;strong&gt;Gospel&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Singer&lt;/li&gt;
+  &lt;li&gt;Gospel music is a genre of Christian music. It is derived from religious chants of afro-american communities and pioneer of soul and R&amp;amp;B.
+The Gospel music is tuneful and easy to grasp. Its lyrics is mostly about religion. The use of chords is not complicated.
+&lt;img src=&quot;/home/softrime/Work/Blog/softrime.github.io/assets/popular_music/gospel.jpg&quot; alt=&quot;Queen of Gospel:Mahalia Jackson&quot; style=&quot;width:300px;&quot; align=&quot;middle&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1910s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1910s&lt;/span&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;tin-pan-alley&quot;&gt;&lt;strong&gt;Tin Pan Alley&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Piano, Singer, Orchestra&lt;/li&gt;
+  &lt;li&gt;Tin pan alley is the pioneer of the pop music. Many famous songs were born in this periods. Tin Pan Alley is the name of a district, where so many music 
+producers located in. For chinese, the style of music in that time is like which in Old Shanghai(老上海). And I think Tin Pan Alley is more like today’s popular music.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dixieland&quot;&gt;&lt;strong&gt;Dixieland&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: String Bass, Tuba, Piano, Trumpet&lt;/li&gt;
+  &lt;li&gt;Dixieland Jazz (sometimes refered to as Hot Jazz or Traditional Jazz), is a style of jazz based on the music that developed in New Orleans. 
+One of the first uses of the term “Dixieland” with reference to music was in the name of the band “Original Dixieland Jazz Band”.
+The definitive Dixieland sound is created when one instrument (usually the trumpet) plays the melody or a recognizable paraphrase or variation on it, and the
+other instruments of the ‘front line’ improvise around that melody. This creates a more polyphonic sound than the arranged ensemble playing of the big band sound.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1920s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1920s&lt;/span&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;country-blues&quot;&gt;&lt;strong&gt;Country Blues&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Guitar, Singer&lt;/li&gt;
+  &lt;li&gt;Blues was born as a form of expression of black communities and outcasts. And country blues is one of the ealiest forms of blues music.
+It usually consists of a singer with a guitar. And sometimes the lyric is like the AAB pattern which is famous in blues. Also a maybe difference 
+between early blues and hillbilly(country) is that the former is mainly performed by blacks while the latter whites.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;hillbilly&quot;&gt;&lt;strong&gt;Hillbilly&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Guitar, Singer&lt;/li&gt;
+  &lt;li&gt;The Blue music can be found as far back as the 1920s, when the record industry created the marketing categories “race music” and “hillbilly music” to sell
+music by blacks for blacks and by whites for whites, respectively. At the time, there was no clear musical division between blues and country music.
+And hillbilly is more like the pioneer of the modern country music.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;boogie-woogie&quot;&gt;&lt;strong&gt;Boogie Woogie&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Piano&lt;/li&gt;
+  &lt;li&gt;Boogie Woogie is generated by Tin Pan Alley piano composers in the style of blues. Actually it’s really like Ragtime for me. The main difference is that
+the left hand in Boogie Woogie plays a repeating stable bass pattern, and the right hand is more free and variant than ragtime. On the other hand, thay are
+both have the rhythm with a high and delight tempo.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;gipsy-jazz&quot;&gt;&lt;strong&gt;Gipsy Jazz&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Guitar, Violin&lt;/li&gt;
+  &lt;li&gt;Gipsy jazz is a style of jazz developed by the Romani guitarist “Django Reinhardt” in Paris during the 1930s.
+The absence of brass lead instruments and drums was a novelty in the jazz context. In my opinion, Gipsy Jazz is dominated
+by giutar, which is also like Flamenco guitar. And also there is no piano and drum.
+&lt;img src=&quot;/home/softrime/Work/Blog/softrime.github.io/assets/popular_music/gipsy_jazz.jpg&quot; alt=&quot;Django Reinhardt&quot; style=&quot;width:300px;&quot; align=&quot;middle&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;1930s&quot;&gt;&lt;span style=&quot;color:red&quot;&gt;1930s&lt;/span&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;swing&quot;&gt;&lt;strong&gt;Swing&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Cello(Bass), Drums, Piano, Woodwind(木管乐器), Brass(铜管乐器)&lt;/li&gt;
+  &lt;li&gt;Swing music is a form of popular jazz music developed in the United States that dominated in the 1930s and 1940s.
+Swing played by a big band always make everybody dance. For a typical pattern, SWING is consisted with a walking bassline which is a steady 
+quarter-note pulse(1/4), drums emphasis beats 2 and 4, piano glues the rhythm section, and a call-response riff section with woodwind and brass.
+&lt;img src=&quot;/home/softrime/Work/Blog/softrime.github.io/assets/popular_music/swing_band.jpg&quot; alt=&quot;swing_band&quot; style=&quot;width:300px;&quot; align=&quot;middle&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;west-countryswing&quot;&gt;&lt;strong&gt;West Country/Swing&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Instruments: Guitar, Singer, Drums&lt;/li&gt;
+  &lt;li&gt;At this time, country music was inspired from the SWING. There are more dancable rhythm section in the country music with drums and beat pattern.
+It was still country music, and in my opinions, the most impressived feature of country music is the singing style of singer.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>softrime</name></author><summary type="html">There are so many different types of music like Jazz, R&amp;amp;B, Blues etc. If you listen each one of these music several times, you may know what’s it like, but also, you don’t know why. So the motivation of this article is to describe popular music genres in a academic way. I’ll try to introduce each common music genre specifically. Some typical examples would be better. This is an interesting work. Keep doing.</summary></entry><entry><title type="html">Interspeech 2019 Voice Conversion Paper Review</title><link href="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/" rel="alternate" type="text/html" title="Interspeech 2019 Voice Conversion Paper Review" /><published>2019-10-10T04:11:09+02:00</published><updated>2019-10-10T04:11:09+02:00</updated><id>http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review</id><content type="html" xml:base="http://localhost:4000/home/softrime/Work/Blog/softrime.github.io/blog/2019/10/10/interspeech-2019-review/">&lt;blockquote&gt;
   &lt;p&gt;For Interspeech 2019, this year there are two sessions about Voice Conversion(VC). In this post, I would mostly review VC-related papers in session &lt;strong&gt;’
 Neural Techniques for Voice Conversion and Waveform Generation’&lt;/strong&gt;, which is mainly about speaker information transformation. It is interesting that &lt;strong&gt;StarGAN&lt;/strong&gt; becomes very popular this year. All the three papers about StarGAN tries to improve performace by modifying its architecture or training strategy. Also is &lt;strong&gt;One-shot Learning VC&lt;/strong&gt; (three papers) which convert source speech to arbitrary target speaker with very limited target speaker corpus. One of them uses VAE while other two methods use PPG. There are also three VC works named on Tomoki Toda which all based on VAE framework. (W.I.P)&lt;/p&gt;
 &lt;/blockquote&gt;
